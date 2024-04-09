@@ -1,3 +1,6 @@
+Архив с проектом находится в релизе.
+---
+
 [Методичка](https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit)</br>
 [Тема](https://it-planet.braim.org/2024/upload/lsd_task1.pdf)</br>
 
